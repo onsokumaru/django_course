@@ -13,12 +13,18 @@ tr{
   margin-left: 5px;
   margin-right: 5px;
 }
-
+table{
+  /* border: 5px solid black; */
+}
+div{
+  /* border: 5px solid black;
+  padding: 2px 2px 2px 2px; */
+}
 #one{
   height: 300px;
   width: 150px;
   font-size: 2em;
-  border: 1px solid black;
+  border: 5px solid white;
   background-color: #1CBCEC
 }
 
@@ -26,7 +32,7 @@ tr{
   height: 300px;
   width: 150px;
   font-size: 2em;
-  border: 1px solid black;
+  border: 5px solid white;
   background-color: #0E77B7
 }
 
@@ -34,7 +40,7 @@ tr{
   height: 300px;
   width: 150px;
   font-size: 2em;
-  border: 1px solid black;
+  border: 5px solid white;
   background-color: #E15554
 }
 
@@ -42,7 +48,7 @@ tr{
   height: 300px;
   width: 150px;
   font-size: 2em;
-  border: 1px solid black;
+  border: 5px solid white;
   background-color: #E1BC29
 }
 
@@ -50,6 +56,6 @@ tr{
   height: 300px;
   width: 150px;
   font-size: 2em;
-  border: 1px solid black;
+  border: 5px solid white;
   background-color: #3BB273
 }
