@@ -1,0 +1,55 @@
+/* color palette
+#1CBCEC
+#0E77B7
+#E15554
+#E1BC29
+#3BB273 */
+
+h1{
+  text-align: center;
+  font-family: 'Rock Salt', cursive;
+}
+tr{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#one{
+  height: 300px;
+  width: 150px;
+  font-size: 2em;
+  border: 1px solid black;
+  background-color: #1CBCEC
+}
+
+#two{
+  height: 300px;
+  width: 150px;
+  font-size: 2em;
+  border: 1px solid black;
+  background-color: #0E77B7
+}
+
+#three{
+  height: 300px;
+  width: 150px;
+  font-size: 2em;
+  border: 1px solid black;
+  background-color: #E15554
+}
+
+#four{
+  height: 300px;
+  width: 150px;
+  font-size: 2em;
+  border: 1px solid black;
+  background-color: #E1BC29
+}
+
+#five{
+  height: 300px;
+  width: 150px;
+  font-size: 2em;
+  border: 1px solid black;
+  background-color: #3BB273
+}
