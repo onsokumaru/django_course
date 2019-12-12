@@ -1,8 +1,13 @@
-h1{
+
+
+/* code from part 1 */
+
+/* h1{
   font-family: "Arial";
 }
+ */
 
-p{
+/* p{
   font-family: monospace;
 }
 
@@ -22,4 +27,14 @@ p{
 
 h1{
   text-align: center;
+} */
+
+/* code from part 2 */
+
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  text-align: center;
+}
+p{
+  font-family: 'Permanent Marker', cursive;
 }
