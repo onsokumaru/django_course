@@ -1,0 +1,49 @@
+/* body{
+  background-color: #3ac4d6
+} */
+*{
+  font-family: "Arial"
+}
+body{
+  background-color: #030b1c;
+  /* background-color: #08183b; */
+  border-left: 50px solid #3ac4d6;
+  border-right: 50px solid #3ac4d6;
+  border-bottom: 50px solid #3ac4d6
+}
+h1{
+  font-family: "Arial";
+  text-align: center;
+  color: white;
+}
+h2{
+  font-family: "Arial";
+  text-align: center;
+  color: white;
+}
+p{
+  font-family: "Arial";
+  /* margin: auto; */
+  text-align: center;
+  color: white;
+}
+
+div{
+  width: 50%;
+  margin: auto;
+
+}
+form{
+  text-align: center;
+}
+label{
+  text-align: center;
+  color: white;
+}
+.button{
+  background-color: #e0b116;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 25px 20px;
+  border-radius: 22px;
+}
