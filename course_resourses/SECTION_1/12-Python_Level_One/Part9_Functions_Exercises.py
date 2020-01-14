@@ -22,6 +22,8 @@
 
 def arrayCheck(nums):
     # CODE GOES HERE
+    seq = [1,2,3]
+    return all(item in nums for item in seq)
 
 
 #####################
@@ -39,7 +41,7 @@ def arrayCheck(nums):
 
 def stringBits(str):
   # CODE GOES HERE
-
+  return str[::2]
 
 #####################
 ## -- PROBLEM 3 -- ##
